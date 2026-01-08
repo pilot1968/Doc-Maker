@@ -1,16 +1,29 @@
-# noteapp
+# Doc Maker
 
-A new Flutter project.
+A Flutter-based text editor for document creation and organization.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Rich Text Editing**  
+  Multi-style formatting powered by Flutter Quill.
 
-A few resources to get you started if this is your first Flutter project:
+- **Search**  
+  Locate documents by title or content.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Dark Mode**  
+  Adaptive theme support for different lighting conditions.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Local Storage**  
+  Secure document saving on the device.
+
+## Version
+
+**1.0.0**
+
+## Team Members
+
+- Prince Yeboah — CSC/22/01/0489
+- Enoch Tagoe — CSC/22/01/1084
+- Francis Danso Aboagye — CSC/22/01/1803
+- Isaac Kodom Boateng — CSC/22/01/1707
+- Prosperity Amadi - CSC/22/01/1736
